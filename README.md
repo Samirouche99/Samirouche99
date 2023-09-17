@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Samirouche99
-- 👀 I’m interested in C# & GUI projects
-- 🌱 I’m currently learning BSC Software Development for Business
-- 💞️ I’m looking to collaborate on Analysis and Design & Mobile Applications
+- 👀 I’m interested in Learning new languages and GUI Development
+- 🌱 I’m currently learning BCS Software Development for Business
+- 💞️ I’m looking to collaborate on Mobile Application Development
 - 📫 How to reach me ...
 
 <!---
