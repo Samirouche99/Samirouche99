@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Samirouche99
-- 👀 I’m interested in Learning new languages and GUI Development
-- 🌱 I’m currently learning BCS Software Development for Business
-- 💞️ I’m looking to collaborate on Mobile Application Development
-- 📫 How to reach me ...
+# 👋 Hi, I’m Samira Amirouche (@Samirouche99)
 
-<!---
-Samirouche99/Samirouche99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 **BSc (Hons) Software Development**  
+💡 Passionate about **GUI Development, Edge Computing, and Automation**  
+⚡ Interested in applying **AI/ML on embedded systems** and creating solutions that bridge **software engineering and real-world hardware**.  
+
+---
+
+## 🔧 Tech Stack & Skills
+- **Languages:** Python, c#, JavaScript, C, SQL  
+- **Frameworks & Tools:** Flask, TensorFlow/Keras, OpenCV, Node.js 
+- **Embedded & Edge Computing:** Jetson Nano, Raspberry Pi, ESP32, IoT projects  
+- **Cloud & DevOps:** AWS (Lambda, S3, DynamoDB, EC2), Docker, Git  
+- **Databases:** MySQL, MongoDB, DynamoDB
