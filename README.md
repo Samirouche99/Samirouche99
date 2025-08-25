@@ -7,7 +7,7 @@
 ---
 
 ## 🔧 Tech Stack & Skills
-- **Languages:** Python, c#, JavaScript, C, SQL  
+- **Languages:** Python, c#, c, JavaScript, SQL  
 - **Frameworks & Tools:** Flask, TensorFlow/Keras, OpenCV, Node.js 
 - **Embedded & Edge Computing:** Jetson Nano, Raspberry Pi, ESP32, IoT projects  
 - **Cloud & DevOps:** AWS (Lambda, S3, DynamoDB, EC2), Docker, Git  
